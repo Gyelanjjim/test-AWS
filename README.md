@@ -6,3 +6,6 @@
 - MySQL
 - ExpressJS
 - NodeJS
+
+## 진행상태
+- 
